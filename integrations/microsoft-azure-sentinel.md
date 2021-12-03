@@ -20,7 +20,7 @@ You'll need to configure the following settings:
 
 * **Friendly name (for server):** Will be shown against intelligence ingested, but can be anything you like
 * **API root URL:** It’s easy to construct the Root URL. You just need your Obstracts Group UUID, [obtained on the Group Management page in the Obstracts web app](https://app.obstracts.com/user/manage\_group).
-  * [https://app.obstracts.com/taxii/taxii2/](https://app.obstracts.com/taxii/taxii2/)YOUR-GROUP-UUID
+  * https://app.obstracts.com/taxii/taxii2/YOUR-GROUP-UUID
 * **Collection UUID:** The Collection UUID is a Feed UUID in Obstracts and [can be obtained from the Feed List page in the Obstracts web app](https://app.obstracts.com/feed/list/).
 * **Username:** your Obstracts username
 * **Password:** your Obstracts API key
@@ -29,7 +29,7 @@ You'll need to configure the following settings:
 
 Now click save, and you should see intelligence being ingested.&#x20;
 
-![](../.gitbook/assets/obstracts-azure-taxii-threat-intel.png)
+![Azure Sentinel Threat Intelligence](../.gitbook/assets/obstracts-azure-taxii-threat-intel.png)
 
 ### Usage
 
