@@ -6,6 +6,12 @@ description: >-
 
 # Browser Extension
 
+### Prerequisites
+
+[An Obstracts plan that supports use of our API.](https://www.obstracts.com/pricing/)
+
+### Setup
+
 Download now for:
 
 * [Chrome](https://chrome.google.com/webstore/detail/obstracts/aieeiepcineanhkahiihoadfhmlohiog)
