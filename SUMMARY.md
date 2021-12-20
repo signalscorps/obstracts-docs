@@ -16,3 +16,4 @@
 * [Browser Extension](integrations/browser-extension.md)
 * [EclecticIQ Intelligence Center](integrations/eclecticiq-intelligence-center.md)
 * [Microsoft Azure Sentinel](integrations/microsoft-azure-sentinel.md)
+* [Splunk Enterprise Security](integrations/splunk-enterprise-security.md)
